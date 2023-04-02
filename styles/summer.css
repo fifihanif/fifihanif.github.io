@@ -156,25 +156,25 @@ nav.navbar.shrink,
 .dropdown-menu,
 .option-input:hover,
 footer 
-{background-color: #f08b67;}
+{background-color: #7b3e24;}
 
 .form-control,
 select.form-control,
 input[type="checkbox"],
 input[type=radio],
 .blog-post 
-{border-color: #f08b67;}
+{border-color: #7b3e24;}
 
 .btn-primary:hover,
 .btn:hover 
-{outline-color: #f08b67;}
+{outline-color: #7b3e24;}
 
 .date-category i,
 blockquote:before,
 .breadcrumb>.active,
 .breadcrumb a:hover,
 .breadcrumb a:focus
-{color: #f08b67;}
+{color: #7b3e24;}
 
 /*________  Light Yellow  ________  */
 
